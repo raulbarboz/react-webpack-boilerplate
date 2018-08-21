@@ -1,7 +1,5 @@
-# expensify-app
-```
-https://react-cost-expensify.herokuapp.com/
-``
+# react-webpack-boilerplate
+
 
 ## install
 
@@ -21,4 +19,3 @@ yarn install
 ```
 yarn run dev-server
 ```
-* obs: To run you will need to create a .env file in the main folder with firebase config, this config should have to contain the acess to the firebase real time database.
